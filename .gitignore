@@ -1,0 +1,6 @@
+# Ignore cache files
+*.pyc
+
+# Ignore the files containing private information
+*.env
+
