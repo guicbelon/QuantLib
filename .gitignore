@@ -1,0 +1,11 @@
+# Ignore cache files
+*.pyc
+
+# Ignore the files containing private information
+*.env
+
+# Ignore the MLP files
+*.h5
+
+# Ignore json files
+*.json
